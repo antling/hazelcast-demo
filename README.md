@@ -1,2 +1,0 @@
-# hazelcast-demo
-hazelcast demo.
